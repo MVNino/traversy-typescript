@@ -1,13 +1,13 @@
-# TSCRIPT NOTES (TRAVERSY MEDIA)
+## TSCRIPT NOTES (TRAVERSY MEDIA)
 
-## 1. Variable assignment
+### 1. Variable assignment
 
-## 2. Functions
+### 2. Functions
 
-## 3. Interfaces
+### 3. Interfaces
 
-## 4. Class
+### 4. Class
 
-## 5. Inheritance
+### 5. Inheritance
 
-## 6. Class interface
+### 6. Class interface
